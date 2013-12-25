@@ -187,3 +187,12 @@ Small Time Miners are running various stratum only pools for different coins.
 | Pool URL                         | Coin     | Avg. Hashrate | Avg. Active Workers |          Notes            |
 | -------------------------------- | -------- | ------------- | ------------------: | ------------------------- |
 | http://litecoin-pool.ch          | Litecoin |    5-10 Mhs   | 15 workers          | PPLNS + VARDIFF + 0% Fee  |
+
+### RUPOOL
+
+| Pool URL                         | Coin     | Avg. Hashrate | Avg. Active Workers |          Notes            |
+| -------------------------------- | -------- | ------------- | ------------------: | ------------------------- |
+| http://btb.rupool.net            | BitBar   |       -       |          -          | PPLNS + VARDIFF + 0% Fee  |
+| http://gdc.rupool.net            | Grandcoin |       -       |          -          | PPLNS + VARDIFF + 0% Fee  |
+| http://alf.rupool.net            | Alphacoin |       -       |          -          | PPLNS + VARDIFF + 0% Fee  |
+| http://stb.rupool.net            | StableCoin |       -       |          -          | PPLNS + VARDIFF + 0% Fee  |
